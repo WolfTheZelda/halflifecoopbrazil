@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "icons/coop/medkit_ammo"
+	"$vertexalpha" "1"
+	"$vertexcolor" "1"
+	"$additive" 1
+}

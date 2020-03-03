@@ -1,0 +1,1 @@
+include("weapons/weapon_hl1_crowbar.lua")

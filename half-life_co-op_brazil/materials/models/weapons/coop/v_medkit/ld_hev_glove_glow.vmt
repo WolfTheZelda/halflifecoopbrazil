@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/coop/v_medkit/ld_hev_arm"
+	"$selfillum" 1
+}
